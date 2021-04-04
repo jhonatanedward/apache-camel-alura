@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.apache.camel.http.common.HttpMethods"/>
     <fullyQualifiedTypeName name="org.apache.camel.component.http4.HttpMethods"/>
+    <fullyQualifiedTypeName name="org.apache.camel.Processor"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
 </qualifiedTypeNameHistroy>
